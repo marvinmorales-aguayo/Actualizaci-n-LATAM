@@ -1,0 +1,8 @@
+{
+  "name": "Remix: International Financial México",
+  "description": "Landing page de conversión alta para el financiamiento de camiones, tractocamiones y autobuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
